@@ -1,0 +1,7 @@
+apiversion: v1
+name: api-data
+port: 9905
+jwtkey: azz
+bboltdbpath: /home/k8s/Go/ws/src/github.com/lhzd863/job2020/tmp
+logfpath: /home/k8s/Go/ws/src/github.com/lhzd863/jo2020/cmd
+

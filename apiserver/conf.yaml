@@ -1,0 +1,13 @@
+apiversion: v1
+name: api-data
+port: 12307
+jwtkey: azz
+bboltdbpath: /home/k8s/Go/ws/src/github.com/lhzd863/autoflow/dbstore
+logfpath: /home/k8s/Go/ws/src/github.com/lhzd863/autoflow/apiserver
+apiserverip: 122.51.161.53
+apiserverport: 12307
+homedir: /home/k8s/Go/ws/src/github.com/lhzd863/autoflow/apiserver/tmp
+mstmaxport: 12314
+mstminport: 12309
+mstip: 122.51.161.53
+accesstoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjMzMDY0NzQzOTYsImlzcyI6ImF6eiJ9.6AfjNv08aXIYNeR9D4P66fx1HYErDDmD4icPR1bCPgY

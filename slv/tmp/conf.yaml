@@ -1,0 +1,11 @@
+apiversion: v1
+name: api-data
+ip: 122.51.161.53
+port: 12308
+jwtkey: azz
+homedir: /home/k8s/Go/ws/src/github.com/lhzd863/autoflow/slv/tmp
+accesstoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjMzMDY0NzQzOTYsImlzcyI6ImF6eiJ9.6AfjNv08aXIYNeR9D4P66fx1HYErDDmD4icPR1bCPgY
+processnum: 3
+apiserverip: 122.51.161.53
+apiserverport: 12307
+
